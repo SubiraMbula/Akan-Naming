@@ -1,5 +1,4 @@
 var submit=function(){
-    var name="";
     var daysOfTheWeek = [
         "Sunday", "Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"
       ];
