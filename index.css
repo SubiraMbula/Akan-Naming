@@ -1,3 +1,47 @@
-*{
-    background-image: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+body{
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+    display: flex;
+    padding: 8em 4em;
 }
+.body1{
+    position: relative;
+    background-color: white;
+    align-content: flex-start;
+    border-radius: 15%;
+    text-align: center;
+    width: 50%;
+    padding-bottom: 1em;
+}
+.form{
+    position: relative;
+    background-color: rgb(192,196,252);
+    width: 50%;
+    border-radius: 5%;
+    float: right;
+}
+.form h3{
+    text-align: center;
+    padding-top: 2em;
+}
+form{
+    padding-top: 7em;
+    padding-left: 4em;
+    padding-right: 4em;
+    
+}
+table, th{
+    border: 1px solid black;
+  }
+table{
+    padding-left:5em;
+    width:70%;
+     height:30%
+  }
+img{
+      padding-bottom: 1em;
+      padding-top: 2em;
+  }
+  .container-fluid{
+      display: flex;
+  }
