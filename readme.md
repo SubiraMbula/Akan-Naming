@@ -44,13 +44,13 @@ And then initialize git in the terminal;
 3. ### Read through the information;
 
 
-<img src="./images/info.png">
+<img src="./images/info.png" height="400">
 
 
 3. ### Enter details that required;
 
 
-<img src="./images/yes.png">
+<img src="./images/yes.png" height="400">
 
 
 4. ### Recieve your output as a akan name.
