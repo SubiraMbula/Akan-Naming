@@ -24,21 +24,38 @@ Clone the repo
 
     git clone https://github.com/SubiraMbula/Akan-Naming
 
-And then run;
+And then initialize git in the terminal;
 
     git init 
-on your terminal.
 
 ## Running the tests
 1. Click on the deployed link ;
+
+
 <img src="./images/this.png">
+
+
 2. The page will appear as below;
+
+
 <img src="./images/it.png">
+
+
 3. Read through the information;
+
+
 <img src="./images/info.png">
+
+
 3. Enter details that required;
+
+
 <img src="./images/yes.png">
+
+
 4. Recieve your output as a akan name.
+
+
 
 ## Authors
 Subira Mbula
