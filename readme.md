@@ -66,7 +66,7 @@ This project is licensed under the [MIT liscence](LICENSE.md)
 License - see the [LICENSE.md](LICENSE.md) file for more
 details
 ## Contact
-1. subira.savali@student.moringaschool.com
+1. Email- subira.savali@student.moringaschool.com
 1. project link-https://github.com/SubiraMbula/Akan-Naming
 ## Aknowledgement
 1. MIT open source lisence.
