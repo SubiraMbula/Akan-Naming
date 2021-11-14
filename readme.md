@@ -9,8 +9,7 @@ This is a site which allows one to know their ghananian name.The nming rule in g
 ## Getting Started
 
 These instructions will give you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on deploying the project on a live system.
+your local machine for development and testing purposes. 
 
 ### Prerequisites
 . git 
@@ -32,11 +31,14 @@ on your terminal.
 
 ## Running the tests
 1. Click on the deployed link ;
-<img src="./">
-2. Read through the information
-3. Enter details that required
-4. Recieve your output name.
-
+<img src="./images/this.png">
+2. The page will appear as below;
+<img src="./images/it.png">
+3. Read through the information;
+<img src="./images/info.png">
+3. Enter details that required;
+<img src="./images/yes.png">
+4. Recieve your output as a akan name.
 
 ## Authors
 Subira Mbula
