@@ -35,25 +35,25 @@ And then initialize git in the terminal;
 <img src="./images/this.png">
 
 
-2. The page will appear as below;
+2. ### The page will appear as below;
 
 
 <img src="./images/it.png">
 
 
-3. Read through the information;
+3. ### Read through the information;
 
 
 <img src="./images/info.png">
 
 
-3. Enter details that required;
+3. ### Enter details that required;
 
 
 <img src="./images/yes.png">
 
 
-4. Recieve your output as a akan name.
+4. ### Recieve your output as a akan name.
 
 
 
