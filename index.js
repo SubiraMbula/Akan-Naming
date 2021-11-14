@@ -8,16 +8,11 @@ var submit=function(){
       var femaleNames = [
         "Akosua"," Adwoa","Abenaa","Akua","Yaa","Afua","Ama"
       ];
-      var month = document.getElementById("Month").value
       var name = document.getElementById("name").value
+      var date = document.getElementById("date").value
+      var month = document.getElementById("month").value
       var year = document.getElementById("year").value
-      var day = document.getElementById("day").value
       var dateOfBirth = (year + "/" + month + "/" + day);
-      var find = dateOfBirth.getDay();
-      var Display = document.getElementById("Display");
-      var male = document.getElementById("Male");
-      var female = document.getElementById("Female");
-    
       if (month =="" && year == "" && day == "" && name == "") {
         alert("fill all the required inputs !");
       }
