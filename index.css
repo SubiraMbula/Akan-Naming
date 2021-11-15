@@ -45,3 +45,6 @@ img{
   .container-fluid{
       display: flex;
   }
+  #display{
+      padding: auto;
+  }
